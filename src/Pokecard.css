@@ -4,19 +4,21 @@
     margin: 1rem;
     box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
     text-align: center;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-radius: 3px;
 }
 
 .Pokecard-data {
     font-size: 20px;
     font-weight: bold;
+    color: rgb(10, 227, 64);
 }
 
 .Pokecard-title {
     margin-bottom: 1rem;
     font-weight: bold;
     font-size: 25px;
+    color: rgb(227, 82, 10);
 }
 
 .Pokecard-image {
