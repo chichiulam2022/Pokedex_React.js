@@ -11,3 +11,12 @@
 .Pokedex-loser {
     color: #e91e63;
 }
+
+.Pokedex-total-experience {
+    color: rgb(240, 233, 233);
+}
+
+.Pokedex-total-experience,
+h2 {
+    font-size: 26px;
+}

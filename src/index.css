@@ -1,15 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&family=Work+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
   margin: 0;
-  font-family: 'Work Sans', sans-serif;
+  /* font-family: 'Work Sans', sans-serif; */
+  font-family: 'VT323', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #eceff1;
+  background-color: #053e65;
   color: #4d4d4d;
-}
-
-code {
-  font-family: 'Work Sans', sans-serif;
-
+  font-size: 15px;
 }

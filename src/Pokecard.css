@@ -9,14 +9,14 @@
 }
 
 .Pokecard-data {
-    font-size: 90%;
+    font-size: 20px;
     font-weight: bold;
 }
 
 .Pokecard-title {
     margin-bottom: 1rem;
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 25px;
 }
 
 .Pokecard-image {
