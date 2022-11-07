@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pokedex_React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br>
+This app was created by React app. <br>
 Deployed app: https://mypokemonspokedex.netlify.app/
 
 ## Available Scripts
