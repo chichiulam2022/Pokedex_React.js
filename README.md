@@ -1,7 +1,7 @@
 # Pokedex_React.js
 
 This app was created by React app. <br>
-Deployed app: https://chichiulamprojects.netlify.app/
+Deployed app: pokedexapireactapp.netlify.app
 
 ## Available Scripts
 
